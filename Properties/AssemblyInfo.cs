@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("troj")]
+[assembly: AssemblyTitle("troj_nvs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("troj")]
+[assembly: AssemblyProduct("troj_nvs")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1c30d5b3-0fcf-4620-8bd6-1bcb7a36c356")]
+[assembly: Guid("acd3cc91-c007-4252-bdc6-b19c4973c64c")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,6 +1,0 @@
-C:\Users\lukas\source\repos\troj\bin\Debug\troj.exe.config
-C:\Users\lukas\source\repos\troj\bin\Debug\troj.exe
-C:\Users\lukas\source\repos\troj\bin\Debug\troj.pdb
-C:\Users\lukas\source\repos\troj\obj\Debug\troj.csprojAssemblyReference.cache
-C:\Users\lukas\source\repos\troj\obj\Debug\troj.exe
-C:\Users\lukas\source\repos\troj\obj\Debug\troj.pdb

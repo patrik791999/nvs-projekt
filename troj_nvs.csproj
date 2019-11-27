@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C30D5B3-0FCF-4620-8BD6-1BCB7A36C356}</ProjectGuid>
+    <ProjectGuid>{ACD3CC91-C007-4252-BDC6-B19C4973C64C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>troj</RootNamespace>
-    <AssemblyName>troj</AssemblyName>
+    <RootNamespace>troj_nvs</RootNamespace>
+    <AssemblyName>troj_nvs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="D:\Art_trA\VisStud\trojuh NVS.cs" />
+    <Compile Include="F:\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
